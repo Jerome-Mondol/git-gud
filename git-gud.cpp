@@ -18,6 +18,8 @@ const string PURPLE = "\033[35m";
 const string BLUE = "\033[34m";
 const string LIGHT_BLUE = "\033[94m";
 
+
+
 void enableANSIInWindows()
 {
 #ifdef _WIN32
@@ -33,6 +35,7 @@ void enableANSIInWindows()
     }
 #endif
 }
+
 
 void printWelcomeBanner()
 {
@@ -66,7 +69,7 @@ vector<string> takeInputFromUser(string input)
 
 int main()
 {
-    // State Tracking
+    // State tracking of out git!!
     string currentBranch = "master";
     string userInput;
     

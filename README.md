@@ -5,6 +5,10 @@ Git Gud is a small command-line game that teaches basic Git concepts through a s
 text adventure. You are trapped in a corrupted repository and must use familiar Git
 commands to escape.
 
+Live Website
+------------
+https://jerome-mondol.github.io/git-gud/
+
 Screenshot
 ----------
 

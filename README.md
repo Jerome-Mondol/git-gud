@@ -25,6 +25,20 @@ Requirements
 On Windows, the game enables ANSI support automatically. If you do not see colors,
 try Windows Terminal, PowerShell, or a modern terminal emulator.
 
+Install
+-------
+Clone the repository:
+
+```
+git clone https://github.com/Jerome-Mondol/git-gud.git
+```
+
+Then change into the project folder:
+
+```
+cd git-gud
+```
+
 Build
 -----
 From this folder:

@@ -1,1 +1,4 @@
 *.exe
+gpush.sh
+config.bat
+node_modules
